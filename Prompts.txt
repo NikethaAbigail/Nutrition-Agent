@@ -1,0 +1,35 @@
+💚 Health-Based Prompts
+I’m a South Indian diabetic vegetarian trying to lose weight. Give me tomorrow’s meal plan.
+
+I have PCOS and follow a vegetarian diet. Suggest a weekly meal plan.
+
+I’m trying to build muscle and follow a high-protein diet. Suggest Indian meals for tomorrow.
+
+I have thyroid issues. Can you suggest a simple Indian dinner that avoids goitrogens?
+
+I need a low-carb, gluten-free Indian meal plan for weight loss.
+
+🥗 Ingredient-Based Prompts
+I have paneer, capsicum, onions, and whole wheat. What can I cook?
+
+I only have rice, curd, potatoes, and tomato. Suggest something healthy for dinner.
+
+I just bought broccoli, tofu, garlic, and noodles. Make me a fusion meal.
+
+🌍 Culture/Regional Cuisine Prompts
+I’m from Kerala and prefer coconut-based dishes. Suggest a diabetic-friendly lunch.
+
+I follow a Jain diet and need a no-onion, no-garlic dinner idea.
+
+I like Indo-Chinese food. Suggest something healthy I can make at home.
+
+🌅 Time-Specific Prompts
+Suggest a healthy Indian breakfast I can make in under 15 minutes.
+
+What’s a good lunchbox recipe for school that’s vegetarian and high in fiber?
+
+I want a light dinner with soup and salad. Give me a South Indian twist.
+
+🧘 Lifestyle & Fitness
+I do intermittent fasting (16:8). What should I eat during my eating window?
+
